@@ -37,9 +37,24 @@
 - '.env.example' - Show enviroment setup
 - 'app/Providers/AppServiceProvider.php' - Role logic enforced 
 
-## UI 
+## UI Outcome
+
+### Guest Users Homepage
 
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/68029c61-c411-4295-ac1c-d64869069774" />
+
+### Authenticated User Homepage with Input for Health Problem
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/5cbbdfcb-6112-45ec-8c45-4e1d9cd5a55b" />
+
+### Wellneess Recommendations Results
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/a1ed100c-231f-460a-8768-ce3305244eb1" />
+
+### Admin Panel
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/8e26ce78-dcac-4922-af3b-ff11685e1298" />
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/c312836c-b5e7-4e54-a04f-448a60cb00ff" />
 
 
 ## Code of Conduct
