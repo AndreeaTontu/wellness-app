@@ -37,6 +37,11 @@
 - '.env.example' - Show enviroment setup
 - 'app/Providers/AppServiceProvider.php' - Role logic enforced 
 
+## UI 
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/68029c61-c411-4295-ac1c-d64869069774" />
+
+
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
